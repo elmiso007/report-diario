@@ -18,6 +18,11 @@ MIGRATION_GUIDE.md
 *.jpeg
 *.log
 
+# Exceção: imagens de documentação
+!docs/*.png
+!docs/*.jpg
+!docs/*.jpeg
+
 # ==============================================
 # PYTHON
 # ==============================================

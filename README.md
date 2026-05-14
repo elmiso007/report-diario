@@ -4,6 +4,10 @@ Sistema automatizado para geração e envio de relatórios diários de atendimen
 
 > **Status:** ✅ Produção | **Versão:** 2.0.1 | **Última Atualização:** 04 de Novembro de 2024
 
+![Exemplo do relatório gerado](docs/exemplo.png)
+
+> Imagem com dados fictícios — apenas ilustrativa. Para regenerá-la: `python docs/gerar_exemplo.py`.
+
 ---
 
 ## 📑 **Índice**
